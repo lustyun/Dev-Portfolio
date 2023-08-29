@@ -33,13 +33,6 @@ export const metadata: Metadata = {
         description,
         siteName: title,
     },
-    twitter: {
-        card: "summary_large_image",
-        title,
-        description,
-        creator: "@shahsagarm",
-        images: "/images/open-graph-sagar.png",
-    },
     icons: {
         icon: "/images/favicon.ico",
         shortcut: "/favicon-16x16.png",
