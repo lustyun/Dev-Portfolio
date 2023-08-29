@@ -14,7 +14,6 @@ const description =
     "A self-proclaimed designer who specializes in full stack development (React.js & Node.js), from Michigan, USA";
 
 export const metadata: Metadata = {
-    metadataBase: new URL(url),
     title,
     description,
     keywords: [
