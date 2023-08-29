@@ -32,7 +32,7 @@ const HeroSection = () => {
                             </span>
                         </Typography>
                         <Typography>
-                            I'm a full stack developer specializing in React.js
+                            I&apos;m a full stack developer specializing in React.js
                             and Node.js. My primary objective is crafting
                             remarkable digital experiences that are not only
                             fast, accessible, and visually appealing but also

@@ -33,24 +33,25 @@ const AboutMeSection = () => {
                         Curious about me? Here you have it:
                     </Typography>
                     <Typography>
-                        I'm a highly motivated Computer Science graduate with a
-                        strong technical foundation in programming languages
-                        such as Java, C++, JavaScript, Python, SQL, HTML, and
-                        CSS. I've embarked on an exciting journey in the world
-                        of technology, fueled by a passion for crafting
-                        meaningful and innovative solutions.
+                        I&apos;m a highly motivated Computer Science graduate
+                        with a strong technical foundation in programming
+                        languages such as Java, C++, JavaScript, Python, SQL,
+                        HTML, and CSS. I&apos;ve embarked on an exciting journey
+                        in the world of technology, fueled by a passion for
+                        crafting meaningful and innovative solutions.
                     </Typography>
                     <Typography>
                         My educational background includes a degree in Computer
                         Science, which has provided me with a solid
                         understanding of fundamental concepts and principles.
-                        I've had the pleasure of working with a diverse range of
-                        programming languages and tools, with a particular focus
-                        on developing web and mobile applications using
-                        frameworks like React and React Native.
+                        I&apos;ve had the pleasure of working with a diverse
+                        range of programming languages and tools, with a
+                        particular focus on developing web and mobile
+                        applications using frameworks like React and React
+                        Native.
                     </Typography>
                     <Typography>
-                        Throughout my academic journey, I've transformed
+                        Throughout my academic journey, I&apos;ve transformed
                         concepts into reality through a variety of projects.
                         Notable examples include an admin dashboard website
                         using React and Firebase, a mobile app featuring React
@@ -58,18 +59,19 @@ const AboutMeSection = () => {
                         application built with Next.js.
                     </Typography>
                     <Typography>
-                        Complementing my technical prowess, I've gained
+                        Complementing my technical prowess, I&apos;ve gained
                         invaluable experience as a Sortation Associate at
                         Amazon. This role has honed my ability to swiftly solve
                         problems, collaborate effectively, and resolve critical
                         issues under pressure.
                     </Typography>
                     <Typography>
-                        I'm a firm believer in the power of continuous learning.
-                        Beyond the classroom and workplace, I actively engage
-                        with online courses, hackathons, and coding challenges.
-                        The thrill of conquering fresh challenges and expanding
-                        my horizons keeps me motivated and eager to learn.
+                        I&apos;m a firm believer in the power of continuous
+                        learning. Beyond the classroom and workplace, I actively
+                        engage with online courses, hackathons, and coding
+                        challenges. The thrill of conquering fresh challenges
+                        and expanding my horizons keeps me motivated and eager
+                        to learn.
                     </Typography>
                 </div>
             </div>
