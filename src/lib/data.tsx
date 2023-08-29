@@ -18,7 +18,7 @@ import LogoVue from "/public/images/logos/icon-vue-js.svg";
 import LogoAngular from "/public/images/logos/icon-angular.svg";
 import LogoGit from "/public/images/logos/icon-git.svg";
 
-import AmazonLogo from "/public/images/logos/amazon.jpg";
+import AmazonLogo from "/public/images/logos/Amazon.jpg";
 
 import ProjectLofi from "public/images/project-lofi.png";
 import ProjectMemoryGame from "public/images/project-memory-game.png";
