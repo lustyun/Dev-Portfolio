@@ -15,7 +15,7 @@ const HeroSection = () => {
                     <div className="relative h-[300px] w-[280px] md:h-[360px] md:w-[320px]">
                         <Image
                             src={FardusHeadshot}
-                            alt="Headshot of Sagar"
+                            alt="Headshot of Fardus"
                             className="absolute z-10 h-[280px] w-[240px] border-8 border-gray max-md:left-5 md:left-0 md:top-0 md:h-[320px] md:w-[280px]"
                             style={{ objectFit: "cover" }}></Image>
                         <div className="absolute h-[280px] w-[280px] border-8 border-transparent bg-gray-200 max-md:top-5 md:bottom-0 md:right-0 md:h-[320px] md:w-[280px]"></div>

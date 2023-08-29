@@ -22,7 +22,7 @@ export const metadata: Metadata = {
         "React Developer",
         "Next.js Developer",
     ],
-    creator: "Sagar Shah",
+    creator: "Fardus Ahmed",
     themeColor: [
         { media: "(prefers-color-scheme: light)", color: "white" },
         { media: "(prefers-color-scheme: dark)", color: "black" },
